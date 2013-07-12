@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ad1</key>
+	<array>
+		<string>enyalios-ad.png</string>
+		<string>https://itunes.apple.com/us/artist/sean-allen/id622469031?uo=4</string>
+	</array>
+	<key>ad2</key>
+	<array>
+		<string>pace-coach-ad.png</string>
+		<string>https://itunes.apple.com/us/app/pace-coach/id648082578?ls=1&amp;mt=8</string>
+	</array>
+	<key>ad3</key>
+	<array>
+		<string>pace-coach-free-ad.png</string>
+		<string>https://itunes.apple.com/us/app/pace-coach-free/id649434512?ls=1&amp;mt=8</string>
+	</array>
+	<key>ad4</key>
+	<array>
+		<string>sfx-ad.png</string>
+		<string>https://itunes.apple.com/us/app/sfx/id622468588?mt=8&amp;uo=4</string>
+	</array>
+</dict>
+</plist>
