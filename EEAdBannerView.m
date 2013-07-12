@@ -77,10 +77,19 @@
                                                    userInfo:nil
                                                     repeats:NO];
     
+    // Check status bar state for ad offset
+    int adOffset;
+    if ([UIApplication sharedApplication].statusBarHidden) {
+        adOffset = 50;
+    }
+    else {
+        adOffset = 70;
+    }
+
     // slide the ad banner onto the screen
     [UIView animateWithDuration:0.5
                      animations:^{
-                         [self setFrame:CGRectMake(0, [UIScreen mainScreen].bounds.size.height - 50, 320, 50)];
+                         [self setFrame:CGRectMake(0, [UIScreen mainScreen].bounds.size.height - adOffset, 320, 50)];
                      }];
 
 }
