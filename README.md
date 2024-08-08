@@ -1,7 +1,3 @@
-Here is a README for the EEAds repository based on the available information:
-
----
-
 # EEAds
 
 EEAds allows you to display your own ads in your iOS app. This repository includes the necessary files and instructions to integrate custom ads seamlessly into your app.
